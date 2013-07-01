@@ -1,0 +1,4 @@
+include AUTHORS LICENSE README.rst
+recursive-include storelocator/locale *.po
+recursive-include storelocator/locale *.mo
+recursive-include storelocator/tests/testdata *.csv
