@@ -11,7 +11,7 @@ setup(
     zip_safe=False,
     license='MIT',
     description='Django Storelocator is a Django App for locating stores near a geographical location.',
-    long_description=open('README.txt').read(),
+    long_description=open('README.rst').read(),
     url='https://github.com/moccu',
     author='Carlo Smouter',
     author_email='info@moccu.com',
